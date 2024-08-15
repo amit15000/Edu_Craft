@@ -7,7 +7,7 @@ This repository contains the source code for the Edu Craft MAIT project.
 
 To get started with the project, follow these steps:
 
-git clone https://github.com/anshu-official/Edu_Craft_MAIT_.git
+git clone https://github.com/amit15000/Edu_Craft.git
 
 cd Edu_Craft_MAIT_
 
